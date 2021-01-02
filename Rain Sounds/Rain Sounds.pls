@@ -1,7 +1,7 @@
 [playlist]
 numberofentries=13
-File1=http://stream.srg-ssr.ch/m/rsj/mp3_128
-Title1=Radio Swiss Jazz
+File1=hhttp://player03.swan.audio/downloads/ca7143a959a6cefb0742765664710c32/710Heavy%20Thunderstorm%20Sounds%20-%20Relaxing%20Rain,%20Thunder%20%20Lightning%20Ambience%20for%20Sleep%20-%20HD%20Nature%20Video%20320%20kbps%2000_00_00-01_00_00.mp3
+Title1=Heavy Thunderstorm Sounds - Relaxing Rain, Thunder & Lightning Ambience for Sleep
 Length1=-1
 File2=http://stream.srg-ssr.ch/m/rsc_de/mp3_128
 Title2=Radio Swiss Classic
