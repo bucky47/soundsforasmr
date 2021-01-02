@@ -1,6 +1,6 @@
 [playlist]
-numberofentries=13
-File1=hhttp://player03.swan.audio/downloads/ca7143a959a6cefb0742765664710c32/710Heavy%20Thunderstorm%20Sounds%20-%20Relaxing%20Rain,%20Thunder%20%20Lightning%20Ambience%20for%20Sleep%20-%20HD%20Nature%20Video%20320%20kbps%2000_00_00-01_00_00.mp3
+numberofentries=8
+File1=http://player03.swan.audio/downloads/ca7143a959a6cefb0742765664710c32/710Heavy%20Thunderstorm%20Sounds%20-%20Relaxing%20Rain,%20Thunder%20%20Lightning%20Ambience%20for%20Sleep%20-%20HD%20Nature%20Video%20320%20kbps%2000_00_00-01_00_00.mp3
 Title1=Heavy Thunderstorm Sounds - Relaxing Rain, Thunder & Lightning Ambience for Sleep
 Length1=-1
 File2=http://stream.srg-ssr.ch/m/rsc_de/mp3_128
@@ -24,18 +24,3 @@ Length7=-1
 File8=http://icecast.radiotop.ch/radiotop_128
 Title8=RADIO TOP
 Length8=-1
-File9=http://fm1melody.ice.infomaniak.ch/fm1melody-128.mp3
-Title9=FM 1 Melody
-Length9=-1
-File10=http://radio.netstream.ch/128k
-Title10=Radio 1
-Length10=-1
-File11=http://ohnewerbung.ice.infomaniak.ch/radiobasilisk-64-128-0.mp3
-Title11=Radio Basilisk
-Length11=-1
-File12=http://icepe6.infomaniak.ch/energybern-high.mp3
-Title12=Energy Bern
-Length12=-1
-File13=http://stream.srg-ssr.ch/m/la-1ere/mp3_128
-Title13=RTS La Premiere
-Length13=-1
