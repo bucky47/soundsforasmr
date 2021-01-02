@@ -1,6 +1,6 @@
 [playlist]
 numberofentries=8
-File1=https://cdn-34.anonfiles.com/R105R24fp6/8fdfeb0c-1609601250/Heavy%20Thunderstorm%20Sounds%20-%20Relaxing%20Rain,%20Thunder%20&%20Lightning%20Ambience%20for%20Sleep%20-%20HD%20Nature%20Video%20(320%20kbps)%2000_00_00-01_00_00.mp3
+File1=http://player03.swan.audio/downloads/ca7143a959a6cefb0742765664710c32/710Heavy%20Thunderstorm%20Sounds%20-%20Relaxing%20Rain,%20Thunder%20%20Lightning%20Ambience%20for%20Sleep%20-%20HD%20Nature%20Video%20320%20kbps%2000_00_00-01_00_00.mp3
 Title1=Heavy Thunderstorm Sounds - Relaxing Rain, Thunder & Lightning Ambience for Sleep
 Length1=-1
 File2=http://stream.srg-ssr.ch/m/rsc_de/mp3_128
