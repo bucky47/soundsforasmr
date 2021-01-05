@@ -1,10 +1,10 @@
 [playlist]
 numberofentries=15
 File1=https://onlinebookss.com/ASMR/Ambience/1%20hour%20of%20Ambient%20Fantasy%20Music%20-%20Tranquil%20Atmospheric%20Ambience%20-%20Enchanted%20Lands.mp3
-Title1=1 hour of Ambient Fantasy Music - Tranquil Atmospheric Ambience - Enchanted Lands
+Title1=1 hour of Ambient 🧞‍♀️Fantasy Music - Tranquil Atmospheric Ambience - Enchanted Lands
 Length1=-1
 File2=https://onlinebookss.com/ASMR/Ambience/Apothecary%20Ambience%20-%20Potion%20Sounds%20and%20Soothing%20Rain%20Indoors.mp3
-Title2=Apothecary Ambience - Potion Sounds and Soothing Rain Indoors
+Title2=Apothecary Ambience - Potion 🎶Sounds and Soothing Rain Indoors
 Length2=-1
 File3=https://onlinebookss.com/ASMR/Ambience/Autumn%20Porch%20Tea%20Time%20ASMR%20Ambience.mp3
 Title3=🍁Autumn Porch Tea Time ASMR Ambience
@@ -40,7 +40,7 @@ File13=https://onlinebookss.com/ASMR/Ambience/%f0%9f%91%98Japanese%20Temple%20Am
 Title13=👘Japanese Temple Ambience – Zen in the Rain (ASMR, Relaxation, White Noise)
 Length13=-1
 File14=https://onlinebookss.com/ASMR/Ambience/%f0%9f%92%a8%20Winter%20Storm%20Ambience%20with%20Icy%20Howling%20Wind%20Sounds%20for%20Sleeping,%20Relaxing%20and%20Studying%20Background.mp3
-Title14=💨 Winter Storm Ambience with Icy Howling Wind Sounds for Sleeping, Relaxing and Studying Background
+Title14=💨Winter Storm Ambience with Icy Howling Wind Sounds for Sleeping, Relaxing and Studying Background
 Length14=-1
 File15=https://onlinebookss.com/ASMR/Ambience/%f0%9f%97%bbForest%20Sounds%20at%20Night%20-%20Lake%20Water%20Sounds,%20Crickets,%20Frogs,%20Lily%20Pads,%20Pond%20Nature%20Sounds.mp3
 Title15=🗻Forest Sounds at Night - Lake Water Sounds, Crickets, Frogs, Lily Pads, Pond Nature Sounds
